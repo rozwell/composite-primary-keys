@@ -1,5 +1,5 @@
 {
-  "name": "maksimru/composite-primary-keys",
+  "name": "rozwell/composite-primary-keys",
   "description": "Most advanced composite primary keys package with support of: binary columns, queueable, implicit route binding, relations",
   "keywords": [
     "eloquent",
